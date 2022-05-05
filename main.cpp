@@ -1,13 +1,15 @@
 #include <iostream>
 
-#include "assignment/linear_search_iterative.hpp"  // for example
+#include "assignment/.hpp"  // for example
 
 using namespace std;
 using namespace assignment;
 
 int main(int argc, char **argv) {
-
-  // Write your code here ...
-
+  vector <int> arr;
+  arr.push_back(1);
+  arr.push_back(4);
+  arr.push_back(5);
+  cout<< search_strategy.Search(data, search_elem)
   return 0;
 }
