@@ -32,7 +32,6 @@ std::unordered_set<int> all_sums(const std::vector<int>& data) {
       }
     }
   }
-
   return res;
 }
 
