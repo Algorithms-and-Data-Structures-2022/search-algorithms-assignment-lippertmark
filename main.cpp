@@ -1,7 +1,5 @@
 #include <iostream>
 
-#include "assignment/.hpp"  // for example
-
 using namespace std;
 using namespace assignment;
 
